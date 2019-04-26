@@ -1,0 +1,42 @@
+.header {
+    color: white;
+    background-color: #333333;
+    font-size: 50px;
+    text-align: center;
+    font-family: georgia;
+    }
+
+h1 {
+    color: #eee;
+    font-size: 28px;
+}
+h2 {
+    font-family: georgia;
+    font-size: 24px;
+    margin: 0 auto;
+}
+
+<!--moves the words to fit the page-->
+body {
+    margin: 0;
+    padding: 0;
+    color: #333333;
+  }
+  
+div {
+    background-color: black;
+}
+
+html {
+    background-color: #efeee7;
+}
+
+#main-bio {
+    float: left
+} 
+#contact-info {
+    float: left
+}
+#bio-image {
+    float: left
+}
